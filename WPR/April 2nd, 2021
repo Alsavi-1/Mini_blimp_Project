@@ -1,5 +1,6 @@
+Progress report for the week of 03/27/21-04/02/21.
+
 Victor Albarran 
-Week of 03/27/21-04/02/21
 
 Last Week:
 • Searching for Simulation software, 
@@ -19,3 +20,74 @@ o Gazebo, Webots, and EZphysics as possible to experiment.
 Issues:
 • Personal issues preventing me to produce as much as work as would like.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Nicholas Short
+
+Last Week:
+    Met with the team and our industry sponsor for weekly meetings.
+    Met with Capstone professor for an alignment meeting.
+    Investigated CoppeliaSim as an option for a simulation tool.
+        Read through some of the documentation and tutorials to get a handle on its ease of use and capabilities.
+        Brief internet research to see if community support is there (i.e. Is CoppeliaSim prolific enough that we can "Google" solutions to problems?)
+    Started researching additional options, putting data into a decision matrix.
+        Found a Wikipedia entry listing a few dozen simulation programs/environments.
+        Visited the websites of several options, reading capabilities and examining samples listed on the website.
+
+
+Next Week:
+    Finalize investigation of simulation software options.
+        Will continue to explore the documentation and samples of additional simulation software packages.
+        The research from this investigation will be used in determining the simulation software that is the best fit for our use case.
+    Assist in continuing to generate the document detailing design space, simulation options/decision, and testing metrics.
+    Meet with the team and our industry sponsor for weekly meetings.
+    Begin fleshing out a model of a blimp in the simulation software of choice.
+        Jacob has a simplified 3D model of a blimp that should be importable to whichever simulation environment we decide on.
+        Initial work should be in defining (either through code, or a GUI environment) as many of the design space parameters as we need to produce a 
+        blimp that has basic movement capabilities (movement in the forward direction, for example).
+
+
+Issues:
+
+    Constant flow of family, including niece and nephews, throughout the weekend (for the holiday), 
+    as well as my own kids, made it difficult to work efficiently.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+
+Zeming Zhou 
+
+Last week, 
+I revised our document. 
+I attended the group meeting on Monday. 
+I met with our sponsor on Thursday. 
+I attended the graduation design meeting on Friday.
+
+Next week,
+Participate in group meetings, 
+Continue to modify the information that needs to be improved, 
+Prepare for meetings with sponsors, 
+Refer to more blimp design reports to learn more about airship design.
+
+Issues:
+I have a TOEFL test this week and I have to work hard to review it!
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Benjamin Vu
+
+Last Week:
+    Met with the team and our industry sponsor for weekly meetings
+    Alignment meeting with Capstone professor
+    Assign teammates tasks to work on 
+    Started a new doc to incorporate what was discussed from the meeting
+    New Document formatting
+
+Next Week:
+    Check up with teammates on task 
+    Work on 'Generic complications' with Dylan
+    Read: AA 449 Final Milestone Report Blimp Project
+    Review Metrics section for continuity
+    Assist as needed from team
+
+Issues:
+    Caretaking my Grandma causes inconsistent time use, which affects the time I would like spend on the project
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
