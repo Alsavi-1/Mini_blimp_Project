@@ -1,1 +1,108 @@
+Jacob Thomas
+
+This week
+
+    Concluded the optimal software for this project is CapelliaSim
+    Write Chapter 3: Metrics
+    Review Chapter 2: Design Space
+
+Next week
+
+    Learn to use CapelliaSim
+    Write detailed description of CapelliaSim under chapter 5: Simulation Software Analysis
+    Add new chapter 6: Blimp Envelope Design (chapter number not final)
+
+Note: Tasks for next week may be changed based on decisions of the sponsor.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Benjamin Vu
+	
+This Week 
+
+    Added information to Ch 1, 2, 3 and 4 
+    Info on those chapters (above) are complete
+    Reviewed Ch 3 from 1.0 document and transferred to 2.0 doc
+    Best Software chosen 
+
+Next Week 
+
+    This weekend read: AA 449 Final Milestone Report Blimp Project
+    Check what is needed from Nick, Jacob, and Victor for Simulation and to complete Ch 5
+    Potentially assist on new chapter 6 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Victor Albarran Sanchez <avictor@pdx.edu>
+
+Last Week:
+
+     Uploaded documentation to Github and keep it updated. 
+     Contributed to the Blimp Research Revision Document.
+o  wrote in the section about software simulation and creating a summary of each of the options considered. Section 5
+     Finished the decision Matrix for the software simulation section. 
+
+Next Week:
+     Learn software of choice (CoppeliaSim). 
+o Building a model and experiment.
+     Possibly learning other software and building a model per Galois suggestion. (Webots)
+     Maintain Documentation on Github. 
+
+Issues:
+     Schedule and tasks might change depending on sponsor feedback about building a physical blimp.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Nickolas Short
+
+Last Week:
+
+    Finished looking into options for simulation software.
+        Ranked (with the team) nine options over several considerations.
+        Ultimately chose CoppeliaSim, as it scored the highest and was the one we were most familiar with.
+    Finished working on the introduction section of the Blimp Research revision document.
+        Included a brief explanation and history of blimps, as well as the differences between our project and the typical use case.
+    Began working on the Software/Tool of Choice section of the revision document.
+        Started with a short explanation of why CoppeliaSim is a good/the best choice.
+
+Next Week:
+
+    Learn to use CoppeliaSim.
+        Dive deeper into the documentation.
+        Watch some of the YouTube videos that Jacob has found and search for some independently.
+    Continue working on the Software/Tool of Choice section of the revision document.
+        Incorporate a deeper understanding of the capabilities of CoppeliaSim.
+        Address what will need to be done to develop a good, solid model of a blimp.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Zeming Zhou
+
+This Week：
+
+    Add some information from Chapter 2.1 Blimp Design Space
+    Add some information from Chapter 3: Metrics
+    Read the rest of the document and confirm the information
+
+
+Next Week：
+
+    Read the report to learn more about Blimp design and lay the groundwork for future work.
+    Research the software designed by the partners and complete the completion of the document information.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dylan Filkins
+
+Last Week:
+
+    Organized papers that have dynamic modeling equations
+    Assisted in FOCUS documentation with annotated bibliography and introduction sections
+    Read more into Dr. Perkowski's paper (Technical Manuel of Airship Aerodynamics)
+
+Next Week: 
+
+    Draft a dynamic modeling equations document (will be reviewed by Professor Eisenhower and ME professor sponsor) 
+        Use Technical Manuel of Airship Aerodynamics, Parameter Identification of Blimp Dynamics through Swinging Motion  
+    Write draft to Chapter 6 (Blimp Envelope) with ME influence in writing and decision-making process
+        Possible constructing matrix for decision making (scorecard)
+    Depending on the answer from Ethan, investigate physical modeling with Solidworks
+    Start to look at a presentation method to inform the rest of the team of documents (requested by Dr.Faust)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------   
+
 
