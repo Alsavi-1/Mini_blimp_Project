@@ -1,1 +1,88 @@
+Zeming Zhou
+	
+This Week:
 
+    Contributed to the Blimp Research Revision Document.            
+         Modify and add some descriptions in propeller Characteristics 
+         Modify and add  some descriptions in Metrics
+
+    Read the report and learn about the requirements of the airship hardware installation location and its impact on the airship.
+
+Next Week：
+
+    Continue to complete the Blimp Research Revision Document modification
+
+    Work with my teammates to complete the simulation section
+
+    Learn how to install the hardware portion of an blimp.
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    Dylan Filkins
+	
+This Week:
+
+    Filled out the excel sheet of daily tasks/ goals
+    Continued updating the Blimp Research Revision document.
+        Introduction and COVID complications section
+    Wrote formal document for dynamic equations for the blimp
+        Involved me looking at other journals and textbook to come up with a written form of the equations. Will submit to ME advisor to review. 
+
+Next Week:
+
+    Have another iteration of the design of blimp in Solidworks (working with Ben) 
+    Continue to support documentation
+        Possibly write a section on dynamic equations
+        Write section for design iteration methodology
+    Try to meet with Dr. Jiao and review dynamic equations with Dr. Jiao
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+      Nickolas Short
+	
+This Week:
+
+    Continued updating the Blimp Research Revision document.
+        Wrote more detailed explanations behind the reasoning for decision matrix scores for CoppeliaSim, Simulink, and Physics Abstraction Layer.
+    Started scripting helium lift into a basic model in CoppeliaSim.
+        While the environment does model the physics of gravity, it doesn't inherently model buoyant force resulting from density differentials and displaced volume. This must be scripted each simulation frame.
+
+Next Week:
+
+    Write script to control propeller speed.
+    Define and visualize (if possible) a flight path.
+    Figure out how to control the blimp model as a basic Braitenberg Vehicle.
+        The speed of the motor will be proportional to the distance of the motor from the flight path, resulting in movement toward the flight path.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+      Victor Albarran Sanchez
+	
+This Week:
+· Contributed to the Blimp Research Revision Document.
+    o  Added a section for software in the bibliography.
+    o Continue to write about software choices and rationale score in section 5.
+· Start learning Webots simulation software.
+
+Next Week:
+· Continue with Webots  
+    o Building a model and experiment.
+· Help contributing on Blimp document section 5.
+
+Issues:
+· None
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Jacob Thomas
+	
+This week:
+
+    Wrote descriptions of software selection metrics
+    Wrote reasoning for scores given to 3 softwares
+    Filled in project plan to include short term goals of software learning
+
+Due to new information/suggestions I decided to push my previous goals for this week to next week.
+
+Next week:
+
+    Learn to use CapelliaSim
+    Write detailed description of CapelliaSim under chapter 5: Simulation Software Analysis
+    Add new chapter 6: Blimp Envelope Design (chapter number not final).
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------
