@@ -1,1 +1,28 @@
 
+MEETING NOTES
+Next steps
+Enable measurement of metrics mentioned in paper
+Using different airframes and compare within simulation
+Model of airframe created using techniques mentioned (dev process)
+Start building model which was designed and simulated
+
+Model NEEDs to have prototypical merit.  All features must be justified.
+
+Faust not seeing reflection of specific dials/switches. Need to be able to grab metrics identified in paper.
+What’ smissing is identifying…? Need to be able to change design features somehow. Possibly gui, minimum backend. 
+Want to be able to sit down with paper and simulate different models
+Could be useful to make obviously bad design. Either to show problems with sim or to show that intuition is wrong. Could also demonstrate why model is bad.
+
+Want to be able to compare webots and copelliasim. Optional but useful.
+
+Marknotes
+While fresh in mind
+Make revised plan which lets us leave meeting with idea of tasks for next 3 or 4 weeks
+For nick make component switches
+
+Near term goals
+See equivalent sim with webots
+See metrics from copelliasim
+Modify stuff
+
+Blimp components chapter
