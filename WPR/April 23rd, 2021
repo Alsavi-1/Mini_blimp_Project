@@ -1,1 +1,97 @@
 
+Nickolas Short
+	
+Good evening,
+
+Here is this week's report:
+
+This week:
+
+    Addressed comments on the Revision document
+    Completed basic model of a blimp and created simulation of blimp moving toward an arbitrary way point.
+
+Next week:
+
+    Create CoppeliaSim tutorial document
+    Start exposing design space features to external configuration tool
+        Will start with the ability to import a hand modified config file, with the possibility of creating a GUI to quickly generate config files.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Jacob Thomas
+	
+Last Week
+
+    Reviewed past research of components in preparation for blimp component section of document
+    Learned copelliasim basics
+
+My productivity was less this week due to a back injury. I also intend to complete chapter 4 (previously chapter 5) tomorrow as mentioned in my previous wpr.
+
+Next Week
+
+    Write chapter 5: blimp components (including section on blimp envelope
+    Calculate model of air resistance for integration with both simulations
+    address remaining document comments
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Benjamin Vu
+	
+This week:
+
+    Discussed with the team about the research paper, AA 449 Final Milestone Report Blimp Project, and it looks useful to Victor and Nick.
+    Worked with Dylan on creating a Gondola prototype. 
+
+Next week:
+
+    Share basic gondola design with Dylan and discuss next step(s)
+    Review added sections in Ch 3. Add/comment for corrections as needed
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Zeming Zhou
+	
+This is my weekly progress report.
+
+This week:
+
+    Learn how to use Webots to design a visual model.
+    Try to build a moving model and modify the model's data.
+
+Next week:
+
+    Modify the data of the model and perfect the specific information of the model. View your teammates' models and modify the information.
+    Modify the corresponding information in document.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Victor Albarran Sanchez 
+	
+This Week:
+
+    · Contributed to the Blimp Research Revision Document.
+          o  Modify it and resolved some comment in section 4/5
+    · Continue with Webots  
+         o Building a blimp model that floats
+         o incorporate physics properties
+
+Next Week:
+     · Continue with Webots 
+        o incorporate right propellers
+        o build Controller for blimp 
+    · Demonstrate basic blimp in Webots
+
+Issues:
+     Learning curve on simulation software, first time using it.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dylan Filkins
+	
+This week:
+
+    Modified and verified dynamic modeling equations for blimp
+    Worked with Ben to come up with plan for design work prototype
+    Finished first prototype
+    Looked for documentation on gondola design 
+
+Next week:
+
+    Start iterative prototype design work with Ben (combination of our designs)
+    Provide documentation and reasoning for designs with journal articles
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------
