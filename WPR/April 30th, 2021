@@ -1,1 +1,109 @@
+Victor Albarran Sanchez <avictor@pdx.edu>
+	
+Week of 04/26/21-04/30/21
 
+This Week:
+· Contributed to the capstone schedule.
+
+      o  Added/modify tasks.  
+
+· Webots software Simulation
+
+      o Gave presentation to sponsor.
+
+      o Added a keyboard feature to control the blimp.  
+
+Next Week:
+· Webots Simulation Software.
+
+    o Continue improvement of the model.
+
+    o Integrate measurement metrics to model.
+
+Issues:
+· None
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Zeming Zhou
+	
+This is my weekly progress report.
+
+This week:
+
+    Learn how to use webots and try to build simple blimp models.
+    Get a preliminary model of the blimp from Victor and test it.
+    Add code for the blimp physics model. and test the feasibility of the data.
+
+Next week:
+
+    Continue with changes to the physical model code.
+    Modify the blimp's data as required and the parameters of the blimp model are modified.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Benjamin Vu
+	
+This week:
+
+    Share basic gondola design with Dylan and discuss next step(s)
+        My model is too basic and Now using Dylan's model
+    Review added sections  Add/comment for corrections as needed
+    Added to capstone schedule
+
+Next week:
+
+    Using Dylan's gondola model, create a cage for the motors/propellers 
+    Once done Discuss next steps
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Jacob Thomas
+	
+This Week
+
+    Found model for air resistance of ellipsoid envelope
+    Wrote first half of chapter 4
+        4.1 envelope
+        4.4 motors
+        4.5 props
+
+Next Week
+
+    Create generic model for minimum turn radius
+        include findings in blimp research document
+    create controller for blimp simulation (in pursuit of general contontroller for blimps)
+    address remaining document comments
+    finish chapter 4
+        4.2 sensors (possibly remove due to redundancy)
+        4.3 chassis
+        4.6 batteries
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ Nickolas Short
+	
+This Week
+
+    Started and nearly finished CoppeliaSim tutorial
+        Had good progress, but realized that format wasn't really working, so had to refactor.
+    Began implementing some functionality to import design parameters, on the fly, through a config file
+
+Next Week
+
+    Finish implementing design parameter import functionality.
+    Start working on functions to save test data.
+    Assist Jacob with minimum turn radius tasks.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dylan Filkins
+	
+This week:
+
+    Share basic gondola design with Ben 
+    Discussed with Jacob on design considerations and limitations in 3D printing. 
+    Check in meeting with ME advisor 
+    Drafted concept of gondola design considerations concepts
+
+Next week:
+
+    Finish developing gondola design (e.g., latching system, blimp attachment, modular propeller design) 
+    Run python code for factor of safety for fastener attachment on gondola design.
+    Get Dr. Jiao feedbacj on dynamic equations
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------    
