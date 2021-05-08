@@ -1,1 +1,102 @@
+Jacob Thomas 
 
+This week
+
+    blimp motor control abstraction with nick
+    governing differential equation blimp heading
+        can be used to make controller but will need to be compared to experimental bode plot
+    explored turning radius with nick (more difficult than expected)
+        not all motor speed combinations are stable
+        simulation blimp pitch stability decays over time (needs to be fixed)
+
+Next week
+
+    Create blimp heading controller
+    create equation for turning radius
+        will require long term pitch stability
+    address remaining document comments
+    finish chapter 4
+    4.2 sensors (possibly remove due to redundancy)
+    4.3 chassis
+    4.6 batteries
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Benjamin Vu
+	
+This week:
+
+    Using Dylan's gondola model, create a cage for the motors/propellers 
+    Lost part due to forced windows update
+    Discussed how to design the cage for motor/propeller for 3d printing and installation 
+
+Next Week:
+
+    Continue designing cage for motor/propeller 
+    Show Dylan design and discuss next step
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Nickolas Short
+	
+This Week
+
+    Implemented PID control for yaw and altitude.
+        Not yet tuned, but even with Kp, Ki, and Kd = 1, the system still performs better.
+    Attempted to troubleshoot the strange pitch response.
+        I couldn't find anything suspicious in the code, so I think I just need to implement PID control for pitch, as well.
+
+Next Week
+
+    Identify control surfaces that need PID control and implement control for those.
+        This should make the blimp much more stable.
+    Work with Jacob to determine ideal Kp, Ki, and Kd terms for various controllers.
+    Begin writing functions to take data for specific metric tests.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Zeming Zhou
+	
+This Week
+
+    Build a physical model and modify the code of the physical model.
+    Test the feasibility of the physical model code.
+    Modify the data of the physical model and test it.
+
+Next Week
+
+    Edit the information of the physical model and test it.
+    Modify the corresponding part of the document information.
+
+issue
+
+    Due to the immune response of the vaccine, the contribution this week is not very much.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dylan Filkins
+	
+This week
+
+    Finished base design of Blimp (fasteners, modular design, chassis attachment to blimp, implemented prefabricated bom)
+    Governing dynamic modeling equations based off previous knowledge and Dr. Perkowski's presentationcan
+    Collaborated with Jacob to ensure 3D printable parts
+
+Next week
+
+    Working with Ben to finish propeller shroud (Hope finish design completely and move into printing stage)
+    Collaborate with Jacob on dynamic equation verification (Due to Dr.Jiao's limited time) 
+    Present chassis design to Galois
+    Present dynamic modeling equations to Galois
+    4.3 chassis assistance in writing 
+    Develop moment of inertia for blimp chassis.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Victor Albarran Sanchez <avictor@pdx.edu>
+
+This Week:.  
+· Webots software Simulation
+    o Worked on the physics part of blimp to match our blimp.
+    o Continue to improve blimp model.  
+
+Next Week:
+· Webots Simulation Software.
+    o Continue improvement of model.
+    o Integrate measurement metrics to model.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
