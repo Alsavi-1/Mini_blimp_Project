@@ -1,1 +1,18 @@
 
+Ethan started by going around and asking about the 3 simulation items we have going on since last week:
+
+Coppelia Sim
+Working on a better controller, trying to get blimp to turn at the way point. Having trouble with it.
+Ethan suggested not trying something harder at this point and focus in a more simple controller.
+
+Controller model 
+Ethan mentioned the equations we need for pipeline and state space? 
+
+Webots
+Victor is two steps behind the Copelia Sim simulation in webots 
+
+Dr. Perkowski presentation:
+
+Inertia Matrix equations
+Moving object Inertia equations 
+Euler equations  
