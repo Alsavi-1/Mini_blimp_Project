@@ -1,1 +1,112 @@
 
+Jacob Thomas
+	
+This Week
+
+    Evaluated controller design strategies and decided on controller
+        bode method not feasible with simulation due to timestep length
+        was not able to create equations of motion
+        used Zygler-Nichols method
+    Wrote essay chapters
+        4.1 maneuverability
+        5.2 sensors (removed due to redundancy)
+        5.5 batteries
+    investigated blimp turning radius
+
+Next Week
+
+    Investigate turning methods with nick
+        evaluate different methods for negotiating a turn
+        add discoveries to blimp document
+    begin coordinating transition to project wrap up
+        understand requirements for project end presentation
+        set weekly goals for presentation preparation
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  Benjamin Vu
+	
+This week:
+
+    Completed propellor cage design 
+    Sent current revisions to Nick to implement in simulation
+
+Next week:
+
+    Adjust cage design if needed
+    Transitioning to wrap up project
+        Formatting the final presentation
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ Nickolas Short
+	
+This Week
+
+    Implemented PID control for pitch to remove the oscillations
+    Modified PID control for yaw to account for angular velocity
+        The blimp had a tendency to spin out of control, so I reduced the yaw forces in proportion to the amplitude of the angular velocity.
+    Created a configurable, waypoint based path generator
+        Blimp moves from waypoint to waypoint unless the angle between waypoints is too great
+        Inability to counteract momentum causes the blimp to go into an increasing orbit around a missed waypoint.
+
+Next Week
+
+    Modify yaw PID to "overturn" in proportion to the component of blimps velocity tangential to the vector from the blimp to the waypoint.
+    Implement a test to gage the radius at which the blimp can orbit an object at particular velocities.
+    Adapt all forces in the blimp to realistic (i.e. from known commercially available components) values.
+        Current values are arbitrarily chosen
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ Zeming Zhou
+	
+This Week
+
+    Modify the physical model of the airship based on the data provided by Nick.
+    Adjust the airship's barrier code to see if the airship can avoid obstacles.
+    Airships always rotate irregularly in the air. Adjust the inertia of the airship to keep it more stable.
+
+
+Next Week
+
+    Compare airship information with teammates and improve airship functionality.
+    Complete the airship test .
+    Modify the information in the final report.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dylan Filkins
+
+This Week
+
+    Meeting with Dr. Jiao
+    Implement design of propeller housing from Ben
+    Refined chassis design for manufacturability 
+    Got mass moment of inertia of chassis design
+    Write essay chapters
+        5.3 Chassis Design
+
+Next Week
+
+    Based on chassis design review with Dr. Jiao
+        Evaluate Hex weakness calculations
+        Look at the aerodynamics of the chassis
+        Look at bending strength of servo housing parts
+        Calculate velcro design life
+        Refine chassis design for landing legs and servo arms
+    Continue to write chassis design portion of report
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Victor Albarran Sanchez
+
+This Week:
+
+· Webots software Simulation
+    o Modifying model to mirror Coppelia Sim’s blimp
+    o Adjusting physics of blind for Gondola and envelope.
+    o Working on controller to set a flight path.   
+
+Next Week:
+· Webots Simulation Software.
+    o Continue improvement of model.
+    o Compare blimp models.
+    o Decide in deliverables for webots simulation.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------    
