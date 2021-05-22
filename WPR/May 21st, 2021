@@ -1,1 +1,64 @@
 
+Nickolas Short
+	
+This Week
+
+    Finished designing a simulation where a blimp follows a path to completion.
+        It's ugly and inefficient, but it works!
+    Started working with Jacob on a different path-following algorithm.
+        This one should be much more graceful.
+
+Next Week
+
+    Implement a new path-following algorithm, or deem it too time-costly to implement.
+    Start wrapping up documentation and preparing for the hand-off.
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ Zeming Zhou 
+ 
+ This Week
+
+    Complete the design of the physical model of the blimp, and simulate the obstacle avoidance test of the Blimp.
+    Complete the final webots Blimp simulation.
+    Show my design model to teammates and discuss its feasibility.
+
+
+Next Week
+
+    Help teammates complete the final simulation test.
+    Edit the final display information.
+    Prepare for the final presentation.
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ Benjamin Vu
+
+This week:
+
+    Had a discussion about the propeller cage. 
+        Arms holding the motor are short so they'll be extended for the cage to fit
+    Working on the final presentation slides.
+
+Next week:
+
+    Continue working on the final presentation slides.
+        Work with team to incorporate information about their topics
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Victor Albarran Sanchez <avictor@pdx.edu>
+	
+This Week:
+· Webots software Simulation
+    o Adjusting physics of blimp for Gondola and envelope.
+    o Working with Zeming on the controller for Blimp.
+    o Added obstacle avoidance to the controller for the Blimp.
+    o Added keyboard control for the blimp.   
+
+Next Week:
+· Webots Simulation Software.
+    o Wrap up webots simulation.
+    o Write a report on webots blimp simulation.
+· Blimp Documentation.
+    o Collaborate with the final report.
+    o Collaborate with the final presentation.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
