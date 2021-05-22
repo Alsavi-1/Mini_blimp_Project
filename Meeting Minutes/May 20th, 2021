@@ -1,1 +1,22 @@
 
+Ethan started by going around and asking about the 3 simulation items we have going on since last week:
+
+Coppelia Sim
+Still working on waypoint so blimp can follow path but going well.
+Showed simulation, modified the trajectory and added more waypoints
+
+Blimp Control Equation
+Jacob is still working on the equations, reading about them and needs to implement them to add to our blimp simulation.
+ 
+
+Webots
+Victor and Zeming got a basic way to control a blimp, one by traveling by itself with the controller and other by user control by the keyboard. Still need to fine tune the physics of it and create a path to follow.
+
+Ethan mentioned that it might be better to stop the work on webots simulation and focus in Copelia Sim, Nick mentioned that it might be possible but the learning curve to learn LUA (programming language) is steep and might be difficult with the deadline we have to wrap up our capstone.
+
+Dr. Perkowski presentation:
+
+Closed loop control
+Step Response 
+Response Time 
+  To continue….
