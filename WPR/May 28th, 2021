@@ -1,1 +1,88 @@
+Victor Albarran Sanchez
 
+This Week:
+    · Webots software Simulation
+       o Wrap up any work for simulation.
+       o Discussed the assigned task for final report/presentation with teammates. 
+Next Week:
+   · Webots Simulation Software.
+       o Write a report on Webots blimp simulation.
+   · Blimp Documentation.
+       o Collaborate with the final report.
+       o Collaborate with the final presentation
+Issues:
+   · None
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Benjamin Vu
+
+This week:
+    Created an outline of how the presentation is going to be presented
+        Had a meeting where each team will present 2 slides
+    Work with Dylan with finalizing gondola work
+
+Next week:
+    Make sure deliverables are ready
+        Final revision document
+        Capalliasim Files
+        WeBots Files
+        Github repository
+        Any new documents created
+        Explanation of Capalia and WeBots software 
+    Practice Presentation 
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ Nickolas Short
+
+This Week:
+    Attempted to correct the issue of the blimp only turning CW during the turn-stop-navigate correction state.
+        After many attempts, I was not successful. This seems to be a complex logical problem.
+    Identified and corrected bug in the forward motion controller that was preventing the blimp from slowing down when approaching a way point.
+    Implemented monitoring and display of top speed, greatest acceleration, total path deviation, simulation run time, total blimp mass, and buoyant force.
+        Total mass and buoyant force display at the beginning of the simulation and all of the others display at the end, when the blimp touches the last way point.
+
+Next Week:
+    Collaborate on the presentation and deliverables.
+    Tidy code and ensure that it is well commented.
+    Pre-record a video of blimp's waypoint navigation for embedding in the presentation.
+        This is a contingency against technical difficulties.
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  Dylan Filkins
+
+This week:
+    Finalized the integrated design with Ben
+    Worked with Solidworks and Abaqus to look at design criteria that could be valuable for Galois
+        Aerodynamics
+        Pressure
+        Velocity Change across chassis and the whole blimp system
+    Meeting with Dr. Jiao to discuss the project
+    Drafted poster presentation (for ME)
+    Finished chassis slides for final presentation
+
+Next week:
+    Make sure deliverables are ready
+        Final revision document
+        Write the chassis portion of the document with images and design considerations made this week
+            Aerodynamics
+            Pressure
+            Velocity
+            Design reasonings on details (holes, cage, modularity)
+    Practice Presentation 
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ Zeming Zhou
+
+This Week：
+    Discuss the final assignment with teammates.
+    Simulation test of webots.
+    Draft the text of the final speech and revise the information of the document.
+    PowerPoint is required to complete the final presentation.
+
+Next Week:
+    Complete the revision of the final report.
+    Modify the Final Document.
+    Practice the final speech.
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
